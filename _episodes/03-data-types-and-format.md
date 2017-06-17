@@ -30,7 +30,7 @@ structure and format of our data.
 
 How information is stored in a
 DataFrame or a python object affects what we can do with it and the outputs of
-calculations as well. There are two main types of data that we're explore in
+calculations as well. There are two main types of data that we will explore in
 this lesson: numeric and character types.
 
 # Numeric Data Types
